@@ -1,0 +1,4 @@
+validate(["attr"=>["regle","regle4"],"attr2"=>"regle2"]) =>
+applique au donnes
+
+
